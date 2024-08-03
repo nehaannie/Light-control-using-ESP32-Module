@@ -46,7 +46,7 @@ This project demonstrates how to control a light bulb using an ESP32 module. By 
 
 ## Demo Video
 
-[Watch the demo video](videos/ESP.mp4)
+[Watch the demo video](ESP.mp4)
 
 ## Acknowledgements
 Inspired by Techatronic.

@@ -13,7 +13,10 @@ This project demonstrates how to control a light bulb using an ESP32 module. By 
 - 5V Power Supply (optional, for the relay)
 
 ## Circuit Diagram
-![Circuit Diagram](images/ESP32.png)
+1.Circuit diagram <br>
+![ESP1](espcir.png)<br>
+2.Our Circuit <br>
+![ESP2](ESP32.jpg)
 
 ## Setup Instructions
 1. **Connect the ESP32 to Relay Module:**
@@ -43,7 +46,7 @@ This project demonstrates how to control a light bulb using an ESP32 module. By 
 
 ## Demo Video
 
-![esp](esp.mp4)
+![esp](ESP.mp4)
 
 ## Acknowledgements
 Inspired by Techatronic.
